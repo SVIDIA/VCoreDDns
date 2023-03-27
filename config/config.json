@@ -1,1 +1,1 @@
-{"DefaultTTL":141,"CheckFreqS":700,"DisabledSLIDs":["GOwfL3HSMIQIr8p11TWkbV6rB","RJqDTgA5kESWbmPGKNTIphhsi","4By13489pRUPFDrA9OCLHU3GS"]}
+{"DefaultTTL":141,"CheckFreqS":700,"Checkers":["http://checkip.dynu.com","http://checkip.dyndns.org","http://www.checkip.org/","https://www.ipchicken.com/","http://whatismyip.host/","http://ip4only.me/api/","http://www.ip-adress.eu/","https://www.myexternalip.com/json/"],"DisabledSLIDs":["GOwfL3HSMIQIr8p11TWkbV6rB","RJqDTgA5kESWbmPGKNTIphhsi","4By13489pRUPFDrA9OCLHU3GS"]}
